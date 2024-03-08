@@ -1,0 +1,14 @@
+/*Fuentes*/
+
+/*Variable*/
+
+:root{
+    --bg--body: #1f212c;
+    --primary--color:#2c5bff;
+    --fontSize--title: 40px;
+    --fontSize--parrafo: 20px;
+}
+nav.bg-gym{
+    background: var(--bg--body);
+
+}
